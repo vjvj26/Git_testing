@@ -1,4 +1,4 @@
-public class Geeks {
+public class Test {
 
     // Main Function
     public static void main(String args[])
